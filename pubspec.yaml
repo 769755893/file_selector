@@ -28,7 +28,7 @@ dependencies:
   file_selector_ios: ^0.5.0
   file_selector_linux: ^0.9.0
   file_selector_macos:
-
+    git: https://github.com/769755893/file_selector_macos.git
   file_selector_platform_interface: ^2.2.0
   file_selector_web: ^0.9.0
   file_selector_windows: ^0.9.0
